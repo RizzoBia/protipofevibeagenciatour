@@ -81,7 +81,7 @@
 :root {
   --radius: 0.625rem;
   --highlight: oklch(0.78 0.17 68);
-  --highlight-strong: oklch(0.72 0.17 60);
+  --highlight-strong: oklch(59.94% 0.24389 29.505);
   --highlight-foreground: oklch(0.2 0.07 265);
   --background: oklch(0.975 0.008 250);
   --foreground: oklch(0.2 0.07 265);
